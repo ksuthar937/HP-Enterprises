@@ -1,0 +1,31 @@
+footer {
+    background-color: #f8f9fa;;
+    width: 100%;
+    padding: 16px 0px;
+    color: black;
+    vertical-align: bottom;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/hero_image.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .hero-subheading {
+    font-size: 32px;
+  font-weight: 500;
+  text-shadow: 2px 4px 4px rgba(160,160,160,0.6);
+  }
+
+  #quote {
+    color: #495057;
+    font-size: 16px;
+    text-align: center;
+  }
