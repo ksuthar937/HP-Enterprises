@@ -49,3 +49,8 @@ footer {
     text-align: center;
     
   }
+
+  .footerData {
+    text-decoration: none;
+    color: black;
+  }
