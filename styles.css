@@ -54,3 +54,15 @@ footer {
     text-decoration: none;
     color: black;
   }
+
+
+
+  video{
+    width: auto;
+  }
+
+  @media only screen and (max-width: 600px) {
+    video {
+      width: 100%;
+    }
+  
